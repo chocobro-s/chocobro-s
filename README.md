@@ -18,4 +18,4 @@ text <p align="right"> <img width="75" height="120" alt="MoogleFFIXConcept" src=
 ----
 
 
-<p align="center"> <img width="1280" height="267" alt="IMG_9169" src="https://github.com/user-attachments/assets/875c9dd9-119d-4a20-9b2b-e2bf7a985cb7" />
+<p align="center"> <img width="1000" height="250" alt="IMG_9169" src="https://github.com/user-attachments/assets/875c9dd9-119d-4a20-9b2b-e2bf7a985cb7" />
