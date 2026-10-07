@@ -12,6 +12,9 @@ text
 text
 
 
+text <p align="right"> <img width="75" height="120" alt="MoogleFFIXConcept" src="https://github.com/user-attachments/assets/cd6f982e-3eb8-48b7-9114-e4134b49e547" />
+
+
 ----
 
 
