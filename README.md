@@ -8,10 +8,9 @@
   <tr>
     <th>            
     
-<img width="1000" height="1000" alt="%3F%3F%3F%3F%3F%3F%3F%3F" src="https://github.com/user-attachments/assets/4a3d7e9d-d48f-461c-8bd8-fcd9ff61fd20" />
+<p align="left"> <img width="100" height="100" alt="%3F%3F%3F%3F%3F%3F%3F%3F" src="https://github.com/user-attachments/assets/4a3d7e9d-d48f-461c-8bd8-fcd9ff61fd20" />
+
+<p align="right"> <mark>Any tips on how to colour text... I've tried EVERYTHING... I've tried copying, writing, but genuinely NOTHING works... Ripping my hair out, dude...</mark>
 
   </tr>
 </table> 
-
-
-<mark>Any tips on how to colour text... I've tried EVERYTHING... I've tried copying, writing, but genuinely NOTHING works... Ripping my hair out, dude...</mark>
