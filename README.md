@@ -12,3 +12,6 @@
 
   </tr>
 </table> 
+
+
+<mark>Any tips on how to colour text... I've tried EVERYTHING... I've tried copying, writing, but genuinely NOTHING works... Ripping my hair out, dude...</mark>
